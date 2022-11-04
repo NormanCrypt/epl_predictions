@@ -1,7 +1,7 @@
 # Making Predictions on Soccer Matches in the English Premier League using Machine Learning
 Use machine learning models on a dataset to predict future winners of English Premier League soccer matches
 
-Dataset for all matches was the result of web scraping of fbref.com as detailed in [thealexvu/epl_predictions](https://github.com/thealexvu/epl_predictions) repository.
+Dataset for all matches was the result of web scraping of fbref.com as detailed in [thealexvu/epl_scraping](https://github.com/thealexvu/epl_scraping) repository.
 
 The dataset is composed of English Premier League soccer matches from the current season (2022-23) to the first season (1992-93). The goal of this project is to extract data points of previous seasons (results, time of day, effects of recent form) to better predict who will win in future matches between two teams.
 
